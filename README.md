@@ -6,7 +6,7 @@ Our project took a few pivots throughout the course of the class. From the start
 
 By the good graces of Prof. Sapiezynski and some help from Avijit we latched onto the idea of looking at representation of nationalities, permutated in terms of gender, on Google Images. This idea was a bit more open ended but there were some general ideas in terms of the harms and/or weird stuff going on. Were some nationalities perceived more negatively than others? Were the perceptions of men and women different in different regions? We wanted to gather the data and take a look around, and try to find some things that merit discussion. As such we frame this whole study as more exploratory, rather than something like the Markup's study were they were gunning to see if Amazon was biasing with its own products.
 <br>
-A more detailed paper can be found in the 
+A more detailed report can be found in the 
 Final Report_final.ipynb file.
 
 ![image](https://user-images.githubusercontent.com/66333267/189527624-6415e7ed-f433-4205-b22a-b21204cf154e.png)
