@@ -8,4 +8,4 @@ By the good graces of Prof. Sapiezynski and some help from Avijit we latched ont
 
 ![image](https://user-images.githubusercontent.com/66333267/189527624-6415e7ed-f433-4205-b22a-b21204cf154e.png)
 
-![image](https://user-images.githubusercontent.com/66333267/189527648-f8d135aa-6435-4c84-be17-af31fa1ae7f1.png)
+![image](https://user-images.githubusercontent.com/66333267/189527670-7cd05b1c-ef50-417e-a4fa-a31c9673e620.png)
